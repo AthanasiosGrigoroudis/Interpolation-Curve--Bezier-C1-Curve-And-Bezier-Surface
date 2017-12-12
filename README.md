@@ -6,7 +6,7 @@ This program displays three different curves and one surface, specifically when 
 3. **Two 3-rd degree Bezier curves** with C1 continuity.
 4. **A bezier surface**, where the corner control points have their x-coordinate equal to 0 and the other control points have their x-coordinate equal to 20. The surface can rotate with the left and right arrows of the keyboard. 
 
-In the first 3 options the control points can be moved using the mouse.
+In the first 3 options the control points can be moved using the left click of the mouse.
 
 Source code and windows executable are included.
 The program was created during a university project.
